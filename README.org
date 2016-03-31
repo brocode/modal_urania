@@ -11,6 +11,5 @@
 ** numbers
 ** join
 * vim adventures
-* practical vim 
+* practical vim
 * idea plugin has its problems
-
