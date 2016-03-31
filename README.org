@@ -1,7 +1,16 @@
 * Intro
 ** Max tells interesting story
-* java
-* python
-* csv
-* json
-* numbers
+* talk about modes
+** wow screenshots
+** modal solves shortcuts problem
+* tasks
+** java
+** python
+** csv
+** json
+** numbers
+** join
+* vim adventures
+* practical vim 
+* idea plugin has its problems
+
