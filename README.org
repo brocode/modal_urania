@@ -1,7 +1,11 @@
 * Intro
 ** Max tells interesting story
 * talk about modes
-** wow screenshots
+** A history of text interfaces
+   - ed as a line-oriented editor (no cursor)
+** wow
+   [[file:wow.jpg][chat vs "normal" commands ambiguity]]
+
 ** modal solves shortcuts problem
 * tasks
 ** java
@@ -10,6 +14,10 @@
 ** json
 ** numbers
 ** join
-* vim adventures
-* practical vim
-* idea plugin has its problems
+* Going further
+** [[http://vim-adventures.com][vim adventures]]
+** practical vim
+** idea plugin has its limitations
+  - no plugins
+  - not feature complete
+  - cheesy dialog prompts
